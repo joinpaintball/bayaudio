@@ -1,0 +1,20 @@
+***
+BAYZ AUDIO Beállítása elsõ alkalommal:
+
+- Az admin felületen (admin//xcv123) Appearence/Customize menüpont.
+- Frontpage sections-on kikapcsolni a Products, Video és Products slider menüpontokat a belsõ Hide opciókkal.
+- Frontpage Slider section-ban, kitörölni a képeknél a szövegeket, illetve a két alap képet betenni.
+- Frontpage Banner section-ban, képeket feltölteni és a button link legyen: (alap weblap elérés)/product
+- Menus menüponton a Menu 1-ben a Primary Menu legyen bepipálva.
+- Save
+- Admin oldalon beállítani az email SMTP és Subscription-t.
+***
+
+***
+Egyéb használati tudnivalók:
+
+- TEXT(HTML) szerkesztõt kellene használni minden post/page szerkesztõben az admin oldalon és csak a szöveg részt átírni szerkesztésnél.
+- Slidert egyenként kell csinálni az admin oldal külön slider oldalán, majd az ott látható shortcode-ot beilleszteni a postba.
+- Ha egy POST készítésénél (a html szerkesztõ részben) rákattintunk a "more" gombra a news oldalon is meg fog jelenni a slider.
+- A "more" nélkül csak az adott post saját ("Continue reading") oldalán jelenik meg a slider.
+***
